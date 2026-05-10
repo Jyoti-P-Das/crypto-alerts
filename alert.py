@@ -5,7 +5,6 @@ from email.mime.text import MIMEText
 ALERTS = [
 
     # ── BTC ALERTS ──
-    {"coin": "bitcoin", "symbol": "BTC", "target": 99999.00, "direction": "below", "note": "TEST — DELETE THIS AFTER"},
     {"coin": "bitcoin", "symbol": "BTC", "target": 75525.00, "direction": "below", "note": "BTC Level 1"},
     {"coin": "bitcoin", "symbol": "BTC", "target": 71171.00, "direction": "below", "note": "BTC Level 2"},
     {"coin": "bitcoin", "symbol": "BTC", "target": 67195.00, "direction": "below", "note": "BTC Level 3 - IN BUY ZONE"},
