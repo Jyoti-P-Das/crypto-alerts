@@ -7,21 +7,21 @@ ALERTS = [
     # ── BTC ALERTS ──
     {"coin": "bitcoin", "symbol": "BTC", "target": 75525.00, "direction": "below", "note": "BTC Level 1"},
     {"coin": "bitcoin", "symbol": "BTC", "target": 71171.00, "direction": "below", "note": "BTC Level 2"},
-    {"coin": "bitcoin", "symbol": "BTC", "target": 67195.00, "direction": "below", "note": "BTC Level 3"},
+    {"coin": "bitcoin", "symbol": "BTC", "target": 67195.00, "direction": "below", "note": "BTC Level 3 - IN BUY ZONE"},
     {"coin": "bitcoin", "symbol": "BTC", "target": 63971.00, "direction": "below", "note": "BTC Level 4"},
 
     # ── MOVR ALERTS ──
     {"coin": "moonriver", "symbol": "MOVR", "target": 2.34,  "direction": "below", "note": "MOVR Level 1"},
     {"coin": "moonriver", "symbol": "MOVR", "target": 1.65,  "direction": "below", "note": "MOVR Level 2"},
     {"coin": "moonriver", "symbol": "MOVR", "target": 1.39,  "direction": "below", "note": "MOVR Level 3"},
-    {"coin": "moonriver", "symbol": "MOVR", "target": 1.30,  "direction": "below", "note": "MOVR Level 4"},
+    {"coin": "moonriver", "symbol": "MOVR", "target": 1.30,  "direction": "below", "note": "MOVR Level 4 - IN BUY ZONE"},
     {"coin": "moonriver", "symbol": "MOVR", "target": 1.23,  "direction": "below", "note": "MOVR Level 5"},
     {"coin": "moonriver", "symbol": "MOVR", "target": 1.16,  "direction": "below", "note": "MOVR Level 6 — Deep Buy"},
 
     # ── PLUME ALERTS ──
     {"coin": "plume-network", "symbol": "PLUME", "target": 0.01351, "direction": "below", "note": "PLUME Level 1"},
     {"coin": "plume-network", "symbol": "PLUME", "target": 0.01140, "direction": "below", "note": "PLUME Level 2"},
-    {"coin": "plume-network", "symbol": "PLUME", "target": 0.01028, "direction": "below", "note": "PLUME Level 3"},
+    {"coin": "plume-network", "symbol": "PLUME", "target": 0.01028, "direction": "below", "note": "PLUME Level 3 - IN BUY ZONE"},
     {"coin": "plume-network", "symbol": "PLUME", "target": 0.01000, "direction": "below", "note": "PLUME Level 4 — Target Entry"},
 
 ]
